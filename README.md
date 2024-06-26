@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dogayaglicioglu
+- 👋 Hi, I’m Doga
 - 👀 I’m interested in Go and Python, particularly in backend development.
 - 💻 I have knowledge of cloud technologies, including AWS and Huawei Cloud.
 - 📫 How to reach me at doga_yaglicioglu@hotmail.com
