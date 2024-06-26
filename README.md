@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dogayaglicioglu
-- 👀 I’m interested in C/C++, Java, Python.
-- 🌱 I’m currently learning Web Development.
+- 👀 I’m interested in Go and Python, particularly in backend development.
+- 💻 I have knowledge of cloud technologies, including AWS and Huawei Cloud.
 - 📫 How to reach me at doga_yaglicioglu@hotmail.com
 
 <!---
