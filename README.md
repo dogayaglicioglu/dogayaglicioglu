@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Doga
-- 👀 I’m interested in Go and Python, particularly in backend development.
-- 💻 I have knowledge of cloud technologies, including AWS and Huawei Cloud.
-- 📫 How to reach me at doga_yaglicioglu@hotmail.com
+Go-ing full speed 🚀 with backend magic and a sprinkle of cloud dreams ☁️💖 (AWS + Huawei)
 
 <!---
 dogayaglicioglu/dogayaglicioglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
